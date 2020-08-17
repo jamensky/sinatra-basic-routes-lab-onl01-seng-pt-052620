@@ -14,4 +14,4 @@ class App < Sinatra::Base
      'My favorite song is Thriller'
   end
 
-end 
+end
